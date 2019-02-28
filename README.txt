@@ -1,3 +1,6 @@
+#0.There is report.pdf in the folder. Please check the overview in this pdf file.
+
+
 #1.Description：
 	
 	My project is deploy a car plate number recognizing model based on deep learning on a Flask server for user to use.
